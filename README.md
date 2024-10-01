@@ -1,3 +1,4 @@
 # Image_Encryption_Decryption_01
 Data is transmitted via the internet on a regular basis. One of the main information sources that are
 expanding on the internet is images. Pictures might include private information. Thus, image security is a big problem. One of the primary methods for picture security is cryptography. Chaos is employed in the encryption process due of its many properties. Various chaos-based image encryption algorithms are defined. Encryption techniques usually employ many rounds. It is necessary to create an image encryption method that employs the right amount of uncertainty and diffusion and encrypts the image in a single scan. The two-step iterative logistic map is used in the suggested picture encryption method. There is a lot of key space used. The experimental results demonstrate that the suggested system has superior.
+The Output will be,
